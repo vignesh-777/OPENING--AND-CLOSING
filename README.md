@@ -1,5 +1,7 @@
 
-# OPENING--AND-CLOSING
+# Ex NO: 10-OPENING--AND-CLOSING
+### Name : vignesh R
+### Reg No : 212223240177
 ## Aim
 To implement Opening and Closing using Python and OpenCV.
 
