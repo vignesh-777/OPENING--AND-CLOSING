@@ -26,8 +26,7 @@ Use Closing Operation.
 
  
 ## Program:
-### DEVELOPED BY: JANARTHANAN K
-### REGISTER NO: 212223040072
+
 
 # Import the necessary packages
 ```
